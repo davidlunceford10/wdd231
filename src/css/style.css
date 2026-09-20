@@ -110,6 +110,12 @@ a:hover {
   color: var(--bs-link-hover-color);
 }
 
+/* icons resized DL*/
+.icon {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
 /* Skip links styling */
 .skip-links ul {
   list-style-type: none;
